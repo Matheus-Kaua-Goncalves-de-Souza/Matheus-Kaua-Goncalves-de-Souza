@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 Estudante de Sistemas para Internet (UNICAP) <br>
-  💻 Desenvolvedor em formação | Apaixonado por tecnologia e inovação <br>
-  🚀 Focado em [Java | Spring Boot | Node | React]
+  💻 Desenvolvedor Full Stack | Apaixonado por tecnologia e inovação <br>
+  🚀 Focado em [Java | Spring Boot | Node | React | TypeScript]
 </p>
 
 ---
